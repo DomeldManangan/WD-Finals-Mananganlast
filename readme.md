@@ -48,6 +48,9 @@
     <li>
       <a href="#link-for-my-website">Links</a>
     </li>
+      <li>
+      <a href="#wakatime">Links</a>
+    </li>
     <li>
       <a href="#resources">Resources</a>
     </li>
@@ -124,6 +127,9 @@ WD-ProjectName
 - Seatwork 2: https://domeldmanangan.github.io/WD-Seatwork2-main/
 - Seatwork 3: https://domeldmanangan.github.io/WD-S3-Manangan/
 - Seatwork 4: https://domeldmanangan.github.io/WD-S4-MANANGAN/index.html
+
+## Wakatime
+- https://wakatime.com/@018f0303-c295-4d90-ab20-dc80859a046a/projects/umsevvjnld?start=2024-07-09&end=2024-07-15
 
 ## Resources
 
