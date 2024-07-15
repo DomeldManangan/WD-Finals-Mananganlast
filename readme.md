@@ -9,7 +9,7 @@
     <img src="./assets/img/LegenX Logo.png" alt="LegenX" width="auto" height="auto">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WD-S4-MANANGAN</h3>
+  <h3 align="center">WD-Finals-MANANGAN</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=DomeldManangan/WD-FINALS-MANANGAN)
+![](https://visit-counter.vercel.app/counter.png?page=DomeldManangan/WD-Finals-Mananganlast)
 
 ---
 
