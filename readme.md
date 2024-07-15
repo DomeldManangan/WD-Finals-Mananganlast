@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Final project. A portfolio contains all my previous works in Web Design course.
+  This is the Final project. All of my prior web design course projects are included in a portfolio. This project attempts to demonstrate my current level of HTML and CSS expertise. It demonstrates my design sensibility and inventiveness.
 </div>
 
 <br />
