@@ -108,7 +108,19 @@ WD-ProjectName
 ```
 
 ## Link for my website
-  https://domeldmanangan.github.io/WD-Finals-Mananganlast
+
+### Main Website
+
+- https://domeldmanangan.github.io/WD-Finals-Mananganlast
+
+### Previous Works Websites
+
+- First Activity: https://domeldmanangan.github.io/WD-TESTING/
+- Hands On 1 (Midterm): https://domeldmanangan.github.io/WD-MIDTERM/
+- Hands On 2: https://domeldmanangan.github.io/WD-HandsOn2-MANANGAN/
+- Seatwork 2: https://domeldmanangan.github.io/WD-Seatwork2-main/
+- Seatwork 3: https://domeldmanangan.github.io/WD-S3-Manangan/
+- Seatwork 4: https://domeldmanangan.github.io/WD-S4-MANANGAN/index.html
 
 ## Resources
 
