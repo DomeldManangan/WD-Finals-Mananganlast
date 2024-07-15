@@ -118,3 +118,4 @@ WD-ProjectName
 | Freepik | Icons | https://www.freepik.com |
 | Google Fonts | Fonts | https://fonts.google.com |
 | Geeksforgeeks | HTML & CSS | https://www.geeksforgeeks.org |
+| Pixabay | Videos | https://pixabay.com |
