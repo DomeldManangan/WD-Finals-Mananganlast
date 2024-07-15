@@ -49,7 +49,7 @@
       <a href="#link-for-my-website">Links</a>
     </li>
       <li>
-      <a href="#wakatime">Links</a>
+      <a href="#wakatime">Wakatime</a>
     </li>
     <li>
       <a href="#resources">Resources</a>
